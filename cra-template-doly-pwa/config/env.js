@@ -18,7 +18,7 @@ module.exports = {
     // PUBLIC_URL: "http://example.com/path",
     // REACT_APP_API: "http://prod.api.example.com",
     REACT_APP_ENV: "prod",
-    GENERATE_SOURCEMAP: "false",
+    // GENERATE_SOURCEMAP: "false",
     BUILD_PATH: "dist"
   }
 }
