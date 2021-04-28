@@ -1,0 +1,24 @@
+{
+  "files": {
+    "vendor.css": "/static/css/vendor.e3d364ea.chunk.css",
+    "vendor.js": "/static/js/vendor.b9041505.chunk.js",
+    "main.css": "/static/css/main.65fd0462.chunk.css",
+    "main.js": "/static/js/main.fb278526.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.b806a8fe.js",
+    "static/css/3.0702323a.chunk.css": "/static/css/3.0702323a.chunk.css",
+    "static/js/3.db6b2adb.chunk.js": "/static/js/3.db6b2adb.chunk.js",
+    "static/css/4.c62d4b02.chunk.css": "/static/css/4.c62d4b02.chunk.css",
+    "static/js/4.b7cf38ea.chunk.js": "/static/js/4.b7cf38ea.chunk.js",
+    "static/css/5.28fa61fb.chunk.css": "/static/css/5.28fa61fb.chunk.css",
+    "static/js/5.59dea3db.chunk.js": "/static/js/5.59dea3db.chunk.js",
+    "static/js/6.361daefa.chunk.js": "/static/js/6.361daefa.chunk.js",
+    "static/js/7.c07659a2.chunk.js": "/static/js/7.c07659a2.chunk.js",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b806a8fe.js",
+    "static/css/main.65fd0462.chunk.css",
+    "static/js/main.fb278526.chunk.js"
+  ]
+}
