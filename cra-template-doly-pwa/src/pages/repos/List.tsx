@@ -15,7 +15,7 @@ const ListPage: React.FC = () => {
   });
 
   if (error) {
-    return <button onClick={run}>加载失败，点击重新加载</button>
+    return <div style={{ margin: 50, textAlign: 'center' }}><a onClick={run}>加载失败，点击重新加载</a></div>
   }
 
   if (loading) {

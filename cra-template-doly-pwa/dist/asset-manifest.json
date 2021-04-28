@@ -1,24 +1,24 @@
 {
   "files": {
-    "vendor.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/vendor.e3d364ea.chunk.css",
-    "vendor.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/vendor.b9041505.chunk.js",
+    "vendor.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/vendor.f1ca2efc.chunk.css",
+    "vendor.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/vendor.b0fdd422.chunk.js",
     "main.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/main.65fd0462.chunk.css",
-    "main.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/main.f4338fb5.chunk.js",
-    "runtime-main.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/runtime-main.29567986.js",
-    "static/css/3.0702323a.chunk.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/3.0702323a.chunk.css",
-    "static/js/3.db6b2adb.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/3.db6b2adb.chunk.js",
-    "static/css/4.c62d4b02.chunk.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/4.c62d4b02.chunk.css",
-    "static/js/4.04c4caee.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/4.04c4caee.chunk.js",
-    "static/css/5.28fa61fb.chunk.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/5.28fa61fb.chunk.css",
-    "static/js/5.59dea3db.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/5.59dea3db.chunk.js",
-    "static/js/6.f56a6ccd.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/6.f56a6ccd.chunk.js",
-    "static/js/7.c07659a2.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/7.c07659a2.chunk.js",
+    "main.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/main.36286815.chunk.js",
+    "runtime-main.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/runtime-main.44fd562c.js",
+    "static/css/3.36d45777.chunk.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/3.36d45777.chunk.css",
+    "static/js/3.6ac1c336.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/3.6ac1c336.chunk.js",
+    "static/css/4.2b6c7c98.chunk.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/4.2b6c7c98.chunk.css",
+    "static/js/4.74dca0eb.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/4.74dca0eb.chunk.js",
+    "static/css/5.55d05f52.chunk.css": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/css/5.55d05f52.chunk.css",
+    "static/js/5.69523ba2.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/5.69523ba2.chunk.js",
+    "static/js/6.4ba0d151.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/6.4ba0d151.chunk.js",
+    "static/js/7.bac1f0f8.chunk.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/static/js/7.bac1f0f8.chunk.js",
     "index.html": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/index.html",
     "service-worker.js": "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.29567986.js",
+    "static/js/runtime-main.44fd562c.js",
     "static/css/main.65fd0462.chunk.css",
-    "static/js/main.f4338fb5.chunk.js"
+    "static/js/main.36286815.chunk.js"
   ]
 }
