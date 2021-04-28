@@ -1,7 +1,7 @@
 // 环境变量配置
 module.exports = {
   default: {
-    PUBLIC_URL: "",
+    PUBLIC_URL: "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/",
     REACT_APP_API: ""
   },
   dev: {
