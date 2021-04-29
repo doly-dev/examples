@@ -1,7 +1,7 @@
 // 环境变量配置
 module.exports = {
   default: {
-    PUBLIC_URL: "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/",
+    PUBLIC_URL: "",
     REACT_APP_API: ""
   },
   dev: {
@@ -15,7 +15,7 @@ module.exports = {
     REACT_APP_ENV: "test"
   },
   prod: {
-    // PUBLIC_URL: "http://example.com/path",
+    PUBLIC_URL: "https://doly-dev.github.io/examples/cra-template-doly-pwa/dist/",
     // REACT_APP_API: "http://prod.api.example.com",
     REACT_APP_ENV: "prod",
     // GENERATE_SOURCEMAP: "false",

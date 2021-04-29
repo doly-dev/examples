@@ -11,7 +11,7 @@ const Home: React.FC = () => {
   return (
     <>
       <div className={styles.title}>cra-template-doly</div>
-      <div className={styles.subtitle}>离线也可以访问</div>
+      <div className={styles.subtitle}>离线也可以访问 test</div>
       <List renderHeader={() => '示例页面'}>
         <Item
           arrow="horizontal"
