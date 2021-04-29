@@ -19,7 +19,7 @@ const ListPage: React.FC = () => {
   }
 
   if (loading) {
-    return <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', margin: 15 }}><Icon type="loading" style={{ marginRight: 5 }} />加载中</div>
+    return <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', margin: 15 }}><Icon type="loading" style={{ marginRight: 5 }} />加载中...</div>
   }
 
   return (

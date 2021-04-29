@@ -14,18 +14,6 @@ import { precacheAndRoute, createHandlerBoundToURL } from 'workbox-precaching';
 import { registerRoute } from 'workbox-routing';
 import { StaleWhileRevalidate } from 'workbox-strategies';
 
-// https://developers.google.com/web/tools/workbox/guides/troubleshoot-and-debug
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.3/workbox-sw.js');
-
-declare const workbox: any;
-
-// This needs to come before any other workbox.* methods.
-workbox.setConfig({ // eslint-disable-line
-  debug: true,
-});
-
-// Now use workbox.routing.*, workbox.precaching.*, etc.
-
 declare const self: ServiceWorkerGlobalScope;
 
 clientsClaim();
