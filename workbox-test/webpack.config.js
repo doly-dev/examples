@@ -4,11 +4,13 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const CopyPlugin = require("copy-webpack-plugin");
 const pkg = require('./package.json');
 
+const publicPath = `https://doly-dev.github.io/examples/${pkg.name}/dist/`;
+
 module.exports = {
   mode: 'development',
   entry: './src/index.ts',
   output: {
-    publicPath: `https://doly-dev.github.io/examples/${pkg.name}/dist/`,
+    publicPath,
     filename: 'static/bundle.js'
   },
   resolve: {

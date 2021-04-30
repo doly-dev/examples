@@ -3,7 +3,7 @@ import hello from './hello';
 
 hello();
 
-register('/service-worker.js', {
+register('./service-worker.js', {
   registrationOptions: { scope: './' },
   ready(registration) {
     console.log('Service worker is active.')
