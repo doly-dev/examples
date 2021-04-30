@@ -1,6 +1,6 @@
 # workbox-test
 
-测试 service worker 配置：[测试地址](https://doly-dev.github.io/examples/worker-test/dist/index.html)
+测试 service worker 配置：[测试地址](https://doly-dev.github.io/examples/workbox-test/dist/index.html)
 
 ## 参考
 
