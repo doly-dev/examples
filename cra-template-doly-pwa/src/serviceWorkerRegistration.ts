@@ -34,15 +34,6 @@ export function register(config?: Config) {
       return;
     }
 
-    window.addEventListener('sw.offline', () => {
-      alert('当前处于离线状态');
-    });
-
-    window.addEventListener('sw.updated', () => {
-      alert('离线缓存已更新');
-      return true;
-    });
-
     window.addEventListener('load', () => {
       const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
 

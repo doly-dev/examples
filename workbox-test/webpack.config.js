@@ -24,10 +24,6 @@ module.exports = {
     ]
   },
   plugins: [
-    new GenerateSW(),
-    // new InjectManifest({
-    //   swSrc: './src/service-worker.ts'
-    // }),
     new HtmlWebpackPlugin({
       template: './public/index.html'
     }),
@@ -42,6 +38,10 @@ module.exports = {
           toType: 'dir'
         },
       ],
+    }),
+    // new GenerateSW(),
+    new InjectManifest({
+      swSrc: './src/service-worker.ts'
     })
   ]
 }

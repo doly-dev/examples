@@ -1,6 +1,11 @@
 /// <reference lib="webworker" />
+
+import { clientsClaim } from 'workbox-core';
 import { precacheAndRoute } from 'workbox-precaching';
 
 declare const self: ServiceWorkerGlobalScope;
+
+// refs: https://developer.mozilla.org/zh-CN/docs/Web/API/Clients/claim
+clientsClaim();
 
 precacheAndRoute(self.__WB_MANIFEST);
