@@ -36,7 +36,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _foo__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./foo */ \"./src/foo.ts\");\n\nfunction sayHello() {\n    console.log(\"hello \" + _foo__WEBPACK_IMPORTED_MODULE_0__.default);\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (sayHello);\n\n\n//# sourceURL=webpack://workbox-test/./src/hello.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _foo__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./foo */ \"./src/foo.ts\");\n\nfunction sayHello() {\n    console.log(\"hello \" + _foo__WEBPACK_IMPORTED_MODULE_0__.default + \" 1\");\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (sayHello);\n\n\n//# sourceURL=webpack://workbox-test/./src/hello.ts?");
 
 /***/ }),
 

@@ -120,7 +120,7 @@ define("./service-worker.js",['./workbox-ce002b5b'], function (workbox) { 'use s
     "revision": "c266141d6db280a90a6eb910b1094426"
   }, {
     "url": "https://doly-dev.github.io/examples/workbox-test/dist/static/bundle.js",
-    "revision": "732ffda8929cf1f5e7a51834bf794bf2"
+    "revision": "d4ecfbf76cfe08e1897fdd000afe5337"
   }], {});
 
 });
